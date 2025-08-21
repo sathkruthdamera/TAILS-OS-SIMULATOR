@@ -1,0 +1,5 @@
+{
+  "name": "Tails OS Simulator",
+  "description": "A web-based simulation of the Tails OS desktop environment, featuring simplified applications and a Gemini-powered help assistant. For demonstration purposes only.",
+  "requestFramePermissions": []
+}
